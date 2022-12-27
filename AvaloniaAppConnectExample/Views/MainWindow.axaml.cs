@@ -8,5 +8,6 @@ namespace AvaloniaAppConnectExample.Views
         {
             InitializeComponent();
         }
+
     }
 }
